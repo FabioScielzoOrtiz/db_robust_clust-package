@@ -5,10 +5,10 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="db-robust-clust",
-    version="0.1.2",
+    version="0.1.4",
     author="Fabio Scielzo Ortiz",
     author_email="fabio.scielzoortiz@gmail.com",
-    description="For more information, check out the official documentation of db_robust_clust.",
+    description="Apply distance based robust clustering for mixed data.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/FabioScielzoOrtiz/db_robust_clust",
